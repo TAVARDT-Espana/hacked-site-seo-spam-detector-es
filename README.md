@@ -1,4 +1,4 @@
-# Detector de Sitios Hackeados y Spam SEO | TAVARDT Espana
+# Detector de Sitios Hackeados y Spam SEO
 
 [![Detector Spam SEO](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/es/detector-seo-spam-sitio-hackeado/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Para auditorias de reputacion online y revision forense de seguridad:
 ## Desinfeccion y Respuesta ante Incidentes
 
 Para asistencia tecnica en saneamiento de sitios comprometidos y cumplimiento de Directrices ENS e Integridad Web, consulte a los especialistas de **TAVARDT Espana**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
