@@ -6,8 +6,6 @@
 
 Auditoria de seguridad tecnica para deteccion de cloaking condicional, inyeccion encubierta de enlaces de spam y compromiso de reputacion web.
 
-Desarrollado y mantenido por el equipo de respuesta ante incidentes y analisis forense de **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria Forense y Seguridad Web
@@ -37,15 +35,6 @@ python seo_spam_detector.py ejemplo.es -json
 
 ***
 
-## Plataforma Web de Diagnostico
-
-Para auditorias de reputacion online y revision forense de seguridad:
-
-* **Detector de Sitios Hackeados y Spam SEO Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
-
-***
-
 ## Desinfeccion y Respuesta ante Incidentes
 
 Para asistencia tecnica en saneamiento de sitios comprometidos y cumplimiento de Directrices ENS e Integridad Web, consulte a los especialistas de **TAVARDT**.
@@ -61,7 +50,7 @@ Para asistencia tecnica en saneamiento de sitios comprometidos y cumplimiento de
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
