@@ -2,6 +2,7 @@
 
 [![Detector Spam SEO](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/es/detector-seo-spam-sitio-hackeado/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditoria de seguridad tecnica para deteccion de cloaking condicional, inyeccion encubierta de enlaces de spam y compromiso de reputacion web.
 
@@ -56,6 +57,11 @@ Para asistencia tecnica en saneamiento de sitios comprometidos y cumplimiento de
 * **Portal Corporativo:** https://ag.tavardt.com/es/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/es/
 * **Contacto Técnico:** https://ag.tavardt.com/es/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 ***
 
